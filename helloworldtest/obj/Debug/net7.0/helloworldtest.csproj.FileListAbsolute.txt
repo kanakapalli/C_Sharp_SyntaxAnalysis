@@ -1,0 +1,14 @@
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/bin/Debug/net7.0/helloworldtest
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/bin/Debug/net7.0/helloworldtest.deps.json
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/bin/Debug/net7.0/helloworldtest.runtimeconfig.json
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/bin/Debug/net7.0/helloworldtest.dll
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/bin/Debug/net7.0/helloworldtest.pdb
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.AssemblyInfoInputs.cache
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.AssemblyInfo.cs
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.csproj.CoreCompileInputs.cache
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.dll
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/refint/helloworldtest.dll
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.pdb
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/helloworldtest.genruntimeconfig.cache
+/Users/sulphuric/Desktop/Learning/unity/C#/helloworld/helloworldtest/obj/Debug/net7.0/ref/helloworldtest.dll
